@@ -1,0 +1,9 @@
+opencv-python~=4.10.0.84
+numpy~=2.2.1
+requests~=2.32.3
+pycryptodome~=3.21.0
+curl_cffi~=0.10.0
+playwright==1.43.0
+python-dotenv==1.0.1
+capsolver
+ddddocr @ git+https://github.com/sml2h3/ddddocr.git@main#egg=ddddocr
