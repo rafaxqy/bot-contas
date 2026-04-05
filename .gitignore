@@ -1,4 +1,8 @@
-contas.txt
 .env
+contas.txt
 __pycache__/
 *.pyc
+venv/
+.venv/
+dist/
+build/
