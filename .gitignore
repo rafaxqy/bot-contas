@@ -1,0 +1,4 @@
+contas.txt
+.env
+__pycache__/
+*.pyc
